@@ -14,4 +14,5 @@ function secuenciaFibo(num){
     return array
 }
 
-console.log(secuenciaFibo(7));
+const fibo = secuenciaFibo(7);
+console.log(fibo);
